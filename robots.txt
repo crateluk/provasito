@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://crateluk/github.io/provasito/sitemap.xml
